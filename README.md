@@ -23,4 +23,4 @@ If our work is valuable to you, please cite our work:
 }
 ```
 
-#### If you have any questions, please contact [cziyuanyang@gmail.com](mailto:cziyuanyang@gmail.com).
+#### If you have any questions, please feel free to contact [cziyuanyang@gmail.com](mailto:cziyuanyang@gmail.com).
