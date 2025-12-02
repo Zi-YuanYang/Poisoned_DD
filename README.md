@@ -1,7 +1,7 @@
  # <p align=center>  Poisoned Distillation: Injecting Backdoors into Distilled Datasets without Raw Data Access
  <div align="center">
   
-[![arXiv](https://img.shields.io/badge/Poisoned_DD-arXiv-red.svg)](https://arxiv.org/abs/2502.04229)
+[![arXiv](https://img.shields.io/badge/Poisoned_DD-AAAI-red.svg)](https://arxiv.org/abs/2502.04229)
 
 </div>
 
